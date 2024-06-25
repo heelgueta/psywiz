@@ -1,6 +1,6 @@
 Package: psywiz
 Title: Psychometric Wizardry Tools
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Herman", "Elgueta", , "herman.elgueta@umag.cl", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6764-5490"))
